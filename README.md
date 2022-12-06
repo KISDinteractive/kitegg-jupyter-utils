@@ -1,4 +1,4 @@
-This is a small and internal (private) repo containing handy scripts for the use of the KITEGG jupyterlabs server.
+An internal (though public) repo containing handy scripts for the use of the KITEGG jupyterlabs server.
 
 Jakob has set it up to store own scripts online and easily accessible, but you are welcome to contribute your own scripts or use the existing.
 
